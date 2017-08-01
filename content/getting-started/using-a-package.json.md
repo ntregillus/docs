@@ -69,7 +69,6 @@ Wrote to /home/ag_dubs/my_package/package.json:
 
 {
   "name": "my_package",
-  "description": "",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
